@@ -33,4 +33,6 @@
 
 .navigation-container .search-bar {
   flex-grow: 3; 
+  padding: 10px;
+  margin: 10px;
 }
