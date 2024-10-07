@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navigation-container {
+  background-color: #032B44;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigation-container .nav-section2 {
+  display: flex;
+  justify-content: center;
+}
+
+.navigation-container .nav-section2 li {
+  padding: 20px;
+  list-style: none;
+}
+
+.navigation-container .nav-section2 li a,
+.navigation-container .nav-section2 li a:visited
+{
+  text-decoration: none;
+  color: white;
+}
